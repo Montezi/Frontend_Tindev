@@ -20,9 +20,7 @@ Para funcionamento da aplicação é necessário utilizar a api <a href="https:/
 ```
   Todos os comandos abaixo devem ser excutados na raiz do Projeto 
   Para instalar as dependências:
-  yarn install 
-  Para subir o JSON server :  
-  json-server server.json -p 3333 
+  yarn install   
   
   Para startar a aplicação :
   yarn start 
@@ -36,9 +34,7 @@ Para funcionamento da aplicação é necessário utilizar a api <a href="https:/
 ```
   Todos os comandos abaixo devem ser excutados na raiz do Projeto 
   Para instalar as dependências:
-  npm install 
-  Para subir o JSON server :  
-  json-server server.json -p 3333 
+  npm install   
   
   Para startar a aplicação :
   npm start 
