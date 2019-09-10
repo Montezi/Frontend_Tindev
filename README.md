@@ -12,6 +12,7 @@ A mesma consome dados da <a href="https://developer.github.com/v3/" target="_bla
 * Axios
 * Socket.io-client
 * React Router Dom
+* React Hooks
 
 # Instalação
 Para funcionamento da aplicação é necessário utilizar a api <a href="https://github.com/Montezi/Backend_Tindev" target="_blank"> Backend Tindev </a>
